@@ -1,0 +1,12 @@
+.itemcontainer {
+  height: 400px;
+  width: 450px;
+  background-color: #ffffff;
+  list-style-type: none;
+  padding: 6px;
+  margin: 6px;
+}
+.itemimg {
+  height: 250px;
+  width: 100%;
+}
